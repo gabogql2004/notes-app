@@ -29,7 +29,7 @@ A responsive Notes App built with HTML, CSS, and JavaScript. Users can add, edit
 ---
 
 ## 📎 GitHub Repository
-🔗 [View Code on GitHub](https://github.com/gabogql2004/notes-app)
+🔗 [View Code on GitHub](https://github.com/gabogql2004/notes-app.git)
 
 ---
 
