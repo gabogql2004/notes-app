@@ -5,7 +5,7 @@ A responsive Notes App built with HTML, CSS, and JavaScript. Users can add, edit
 ---
 
 ## 🚀 Live Demo
-🔗 [View Live on Netlify](https://your-netlify-link.netlify.app) 
+🔗 [View Live on Netlify](https://responsive-notes-app.netlify.app/) 
 
 ---
 
@@ -29,11 +29,11 @@ A responsive Notes App built with HTML, CSS, and JavaScript. Users can add, edit
 ---
 
 ## 📎 GitHub Repository
-🔗 [View Code on GitHub](https://github.com/your-username/notes-app)
+🔗 [View Code on GitHub](https://github.com/gabogql2004/notes-app)
 
 ---
 
 ## 👩‍💻 Author
 **Gabriel Quijada** 
 Frontend Developer
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-quijada-a8a131362/)
